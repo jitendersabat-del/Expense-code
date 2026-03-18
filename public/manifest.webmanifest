@@ -1,0 +1,20 @@
+{
+  "name": "RupeeSense",
+  "short_name": "RupeeSense",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF5",
+  "theme_color": "#FFC400",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
